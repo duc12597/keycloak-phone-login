@@ -8,7 +8,7 @@
   <version>1.0.0</version>
 
   <properties>
-    <keycloak.version>4.5.0.Final</keycloak.version>
+    <keycloak.version>15.1.1</keycloak.version>
   </properties>
 
   <dependencies>
